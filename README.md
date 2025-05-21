@@ -5,3 +5,5 @@
 - Model builds/configs
 - Model performance/metrics
 - Various modifications/tests
+## To-do
++ update baseline.ipynb with colistin RS-42 baseline model
