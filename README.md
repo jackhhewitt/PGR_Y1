@@ -5,5 +5,9 @@
 - Model builds/configs
 - Model performance/metrics
 - Various modifications/tests
+  
 ## To-do
-+ update baseline.ipynb with colistin RS-42 baseline model
++ update non-sampled models with TM-65, CM-60 and CM-65 models
++ update classification models to include the TM-65 and CM-65 models
++ include Y-randomisation files and functions
++ 
